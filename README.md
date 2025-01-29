@@ -29,7 +29,7 @@ mvn clean install
 mvn spring-boot:run
 ```
 
-A aplicação estará disponível em `http://localhost:8080` ou se preferir `http://localhost:8080/swagger-ui/index.html`
+A aplicação estará disponível em `http://localhost:8080` e para testar com Swagger `http://localhost:8080/swagger-ui/index.html`
 
 ## Endpoints da API
 
