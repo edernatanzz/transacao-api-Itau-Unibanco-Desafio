@@ -1,7 +1,8 @@
 ```markdown
 # Desafio Itaú - Vaga 99 Júnior
 
-Este repositório contém a solução para o desafio de programação proposto pelo Itaú Unibanco para a vaga de desenvolvedor júnior. A aplicação é uma API REST que recebe transações e retorna estatísticas sobre essas transações.
+Este repositório contém a solução para o desafio de programação proposto pelo Itaú Unibanco para a vaga de
+desenvolvedor júnior. A aplicação é uma API REST que recebe transações e retorna estatísticas sobre essas transações.
 
 Link do desafio : https://github.com/rafaellins-itau/desafio-itau-vaga-99-junior
 
