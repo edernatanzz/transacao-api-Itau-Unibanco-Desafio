@@ -1,3 +1,25 @@
+# Itaú Unibanco - Desafio de Programação
+
+Este é um desafio de desenvolvimento de software e engenharia de software. O objetivo é testar sua capacidade de construir uma API REST que recebe transações e retorna estatísticas sobre essas transações. A API deve ser desenvolvida em **Java** ou **Kotlin** utilizando **Spring Boot**.
+
+## 🚀 Como rodar o projeto
+
+### Pré-requisitos
+
+- Java 8 ou superior
+- Maven (para gerenciamento de dependências)
+- IDE de sua preferência (IntelliJ, Eclipse, etc.)
+
+### Passos para execução
+
+1. **Clone o repositório**:
+   ```bash
+   git clone https://github.com/seu-usuario/desafio-itau.git
+
+
+
+
+
 Itaú Unibanco - Desafio de Programação
 
 Este é um desafio bacana tanto de desenvolvimento de software quanto de engenharia de software. Queremos testar sua capacidade de construir um software com várias partes diferentes funcionando em conjunto!
